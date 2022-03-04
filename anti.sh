@@ -24,8 +24,12 @@ alias ｓｈ="sh"
 alias まｎ="man"
 alias こで="code"
 alias えちょ="echo"
+alias ｃｈもｄ="chmod"
 
 alias あｄｂ="adb"
 alias ふぁｓｔぼおｔ="fastboot"
 alias っｆｍぺｇ="ffmpeg"
 alias ｇせっちんｇｓ="gsettings"
+
+alias ぁ="ls -a"
+alias っｌ="ls -l"
