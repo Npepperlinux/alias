@@ -1,7 +1,9 @@
-#!/bin/sh
+# 短縮コマンド
+# ブラウザ
 alias Chrome="google-chrome"
 alias Vivaldi="vivaldi"
 alias Chromium="chromium-browser"
 alias Edge="microsoft-edge"
 alias Firefox="firefox"
+
 alias VScode="code"

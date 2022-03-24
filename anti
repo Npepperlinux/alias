@@ -1,4 +1,4 @@
-#!/bin/sh
+# 日本語IME有効時用
 alias ｌｓ="ls"
 alias ｓｌ="sl"
 alias ｃｄ="cd"
