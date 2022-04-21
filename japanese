@@ -4,5 +4,6 @@ alias 端末を閉じる="exit"
 alias 再起動="reboot"
 alias BIOSに移動="sudo systemctl reboot --firmware-setup"
 alias システムプロセス="htop"
+alias 自動削除="sudo apt autoremove"
 
 alias Eメール="xdg-email"
